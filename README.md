@@ -1,1 +1,1 @@
-# Prime-Number-Iteration
+# Prime-Number this is a Prime Number input by user
